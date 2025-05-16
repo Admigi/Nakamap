@@ -85,7 +85,7 @@ Other points of interest in Nara Park including the Deer Park and Kofuku-ji Temp
 
 ## 👥 About Us
 
-Nakamap was created during Le Wagon coding bootcamp by a team passionate about Japanese culture and enhancing the travel experience through technology. Our mission is to connect people with Japan's rich cultural heritage and inspire real-world exploration.
+Nakamap was created in two weeks during Le Wagon coding bootcamp by a team passionate about Japanese culture and enhancing the travel experience through technology. Our mission is to connect people with Japan's rich cultural heritage and inspire real-world exploration.
 
 ---
 
