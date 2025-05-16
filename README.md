@@ -50,7 +50,7 @@ Nakamap is an immersive digital platform that serves as your gateway to explorin
 ## 📸 Screenshots
 
 ### Interactive Map View
-![Interactive Map View](images/nakamap_screenshot1.png)
+<img src="screen/Nakamap home.png" alt="Home">
 *The main map interface showing various points of interest across western Japan with the Shiba Inu guide*
 
 ### Landing Page
@@ -58,24 +58,24 @@ Nakamap is an immersive digital platform that serves as your gateway to explorin
 *Begin your journey into Japan's Soul and unveil Japan's beauty*
 
 ### Country Overview
-![Country Overview](images/nakamap_screenshot3.png)
+<img src="screen/Nakamap home.png" alt="Home">
 *Full view of Japan with the Shiba Inu guide introducing the platform*
 
 ### Location Detail - Todai-ji
-![Todai-ji Temple](images/nakamap_screenshot4.png)
+<img src="screen/Nakamap home.png" alt="Home">
 *Discovering Todai-ji temple information from the map*
 
+### 360° View
+![360 View]<img src="screen/Nakamap home.png" alt="Home">
+*Immersive 360° view of Todai-ji Temple*
+
 ### Historical Background
-![Historical Background](images/nakamap_screenshot5.png)
+<img src="screen/Nakamap home.png" alt="Home">
 *Detailed historical information about Todai-ji Temple and the Great Buddha Hall*
 
 ### Related Points of Interest
-![Related Points](images/nakamap_screenshot6.png)
+<img src="screen/Nakamap home.png" alt="Home">
 *Other points of interest in Nara Park including the Deer Park and Kofuku-ji Temple*
-
-### 360° View
-![360 View](images/nakamap_screenshot7.png)
-*Immersive 360° view of Todai-ji Temple*
 
 ## 🛠️ Technologies Used
 
