@@ -1,71 +1,92 @@
-Nakamap
-<p align="center">
-  <img src="images/nakamap-logo.png" alt="Nakamap Logo" width="200">
-</p>
+# Nakamap
 
-An interactive web application for exploring Japan's cultural heritage, historical sites, and natural beauty.
+## Explore Japan's Beauty, Culture, and Hidden Gems
 
-📖 Overview
+*An interactive web application for exploring Japan's cultural heritage, historical sites, and natural beauty.*
+
+## 📖 Overview
+
 Nakamap is an immersive digital platform that serves as your gateway to exploring Japan. The application features an interactive map interface where users can discover Japanese cultural sites, temples, shrines, and other points of interest throughout the country. With a charming Shiba Inu mascot as your guide, Nakamap offers a blend of geographical exploration and rich cultural information.
-<p align="center">
-  <img src="images/nakamap-screenshot.png" alt="Nakamap Map Interface" width="800">
-</p>
-✨ Features
-📍 Interactive Map Exploration
 
-Discover Japan through an interactive satellite map interface
-Explore various regions including Chugoku, Kansai, and more
-Filter points of interest by category (Tradition, Region, etc.)
-Hover over map pins to reveal unique stories and adventures
+## ✨ Features
 
-🏯 Cultural Site Information
+### 📍 Interactive Map Experience
+- Explore Japan through a satellite-based interactive map
+- Discover points of interest with uniquely designed pins representing different categories (temples, landmarks, nature spots)
+- Hover over pins to reveal unique stories and adventures behind each location
 
-Detailed information about temples, shrines, and historical sites
-Historical background and cultural significance of each location
-Beautiful imagery showcasing Japanese architecture and landscapes
-In-depth articles about famous sites like Todai-ji Temple
+### 🏯 Cultural Immersion
+- Detailed information about historical sites including temples, shrines, and cultural landmarks
+- Rich historical background and cultural significance of each location
+- High-quality images and 360° views of selected destinations
 
-🦊 Virtual Guide
+### 🦊 Virtual Guide
 
-Charming Shiba Inu mascot serves as your virtual tour guide
-Helpful tooltips provide context and guidance throughout your journey
-User-friendly dialogue bubbles enhance the exploration experience
+- Charming Shiba Inu mascot serves as your virtual tour guide
+- Helpful tooltips provide context and guidance throughout your journey
+- User-friendly dialogue bubbles enhance the exploration experience
 
-🗺️ Travel Planning
+### 🗾 Regional Exploration
+- Filter locations by region (Kansai, Chugoku, etc.)
+- Explore Japan region by region with curated content
+- Discover lesser-known gems alongside famous attractions
 
-Filter locations based on regions and categories of interest
-View detailed information to plan your real-world visit
-Discover related points of interest near your selected destinations
+### 🔍 Category Filtering
+- Find locations based on interests (Tradition, Nature, Food, etc.)
+- Customizable filters to personalize your exploration experience
 
-🖼️ Screenshots
-<div align="center">
-  <figure>
-    <img src="images/map-view.png" width="700" alt="Main Map Interface">
-    <figcaption><em>Main map interface showing points of interest across Japan</em></figcaption>
-  </figure>
-  <br>
-  <figure>
-    <img src="images/landing-page.png" width="700" alt="Landing Page">
-    <figcaption><em>Beautiful landing page showcasing Japan's natural beauty</em></figcaption>
-  </figure>
-  <br>
-  <figure>
-    <img src="images/todai-ji-info.png" width="700" alt="Todai-ji Information Page">
-    <figcaption><em>Detailed information page about Todai-ji Temple in Nara</em></figcaption>
-  </figure>
-  <br>
-  <figure>
-    <img src="images/nara-attractions.png" width="700" alt="Nara Attractions">
-    <figcaption><em>Additional points of interest in Nara Park with beautiful illustration</em></figcaption>
-  </figure>
-</div>
-🛠️ Technologies Used
+### 🏆 Challenges
+- Engage with interactive challenges to enhance your exploration
+- Gamified experiences to encourage discovery of new locations
 
-Ruby On Rails, HTML5, CSS3, JavaScript
-Interactive map API (Mapbox)
-Responsive design for all device sizes
-Modern frontend frameworks for smooth animations and transitions
-Custom illustrations and design elements
+## 📱 Usage
 
-👥 About Us
-Nakamap was created by a team passionate about Japanese culture and enhancing the travel experience through technology. Our mission is to connect people with Japan's rich cultural heritage and inspire real-world exploration.
+1. **Explore the Map**: Navigate the interactive map of Japan, where each pin represents a unique location or point of interest.
+2. **Discover Stories**: Hover over or click on pins to reveal information about each location.
+3. **Filter Your Experience**: Use the category and region filters to customize your exploration.
+4. **Immerse Yourself**: Read detailed historical backgrounds, view images, and access 360° views of select locations.
+5. **Take on Challenges**: Participate in challenges to enhance your experience and discover new places.
+
+## 📸 Screenshots
+
+### Interactive Map View
+![Interactive Map View](images/nakamap_screenshot1.png)
+*The main map interface showing various points of interest across western Japan with the Shiba Inu guide*
+
+### Landing Page
+![Landing Page](images/nakamap_screenshot2.png)
+*Begin your journey into Japan's Soul and unveil Japan's beauty*
+
+### Country Overview
+![Country Overview](images/nakamap_screenshot3.png)
+*Full view of Japan with the Shiba Inu guide introducing the platform*
+
+### Location Detail - Todai-ji
+![Todai-ji Temple](images/nakamap_screenshot4.png)
+*Discovering Todai-ji temple information from the map*
+
+### Historical Background
+![Historical Background](images/nakamap_screenshot5.png)
+*Detailed historical information about Todai-ji Temple and the Great Buddha Hall*
+
+### Related Points of Interest
+![Related Points](images/nakamap_screenshot6.png)
+*Other points of interest in Nara Park including the Deer Park and Kofuku-ji Temple*
+
+### 360° View
+![360 View](images/nakamap_screenshot7.png)
+*Immersive 360° view of Todai-ji Temple*
+
+## 🛠️ Technologies Used
+
+- Ruby On Rails, HTML5, CSS3, JavaScript
+- Interactive map API (Mapbox)
+- Custom illustrations and design elements
+
+## 👥 About Us
+
+Nakamap was created during Le Wagon coding bootcamp by a team passionate about Japanese culture and enhancing the travel experience through technology. Our mission is to connect people with Japan's rich cultural heritage and inspire real-world exploration.
+
+---
+
+<p align="center">Embark on your journey into Japan's soul with Nakamap. Discover the beauty, history, and culture of Japan, one pin at a time.</p>
