@@ -51,7 +51,7 @@ Nakamap is an immersive digital platform that serves as your gateway to explorin
 
 ### Landing Page
 <img src="screen/Nakamap home.png" alt="Home">
-*Begin your journey into Japan's Soul and unveil Japan's beauty*
+*_Begin your journey into Japan's Soul and unveil Japan's beauty_*
 
 ### Country Overview
 <img src="screen/Nakamap no pin.png" alt="Map">
