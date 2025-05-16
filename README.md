@@ -54,7 +54,7 @@ Nakamap is an immersive digital platform that serves as your gateway to explorin
 *The main map interface showing various points of interest across western Japan with the Shiba Inu guide*
 
 ### Landing Page
-![Landing Page](images/nakamap_screenshot2.png)
+![Landing Page](screen/Nakamap home.png)
 *Begin your journey into Japan's Soul and unveil Japan's beauty*
 
 ### Country Overview
