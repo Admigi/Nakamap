@@ -1,4 +1,4 @@
-日本語バージョン
+[![en](https://img.shields.io/badge/LANG-EN-blue.svg)](https://github.com/Admigi/Nakamap/blob/master/README.md)
 
 # Nakamap
 
