@@ -1,3 +1,5 @@
+日本語バージョン
+
 # Nakamap
 
 ## Explore Japan's Beauty, Culture, and Hidden Gems
