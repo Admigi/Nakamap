@@ -1,94 +1,94 @@
 [![en](https://img.shields.io/badge/LANG-EN-blue.svg)](https://github.com/Admigi/Nakamap/blob/master/README.md)
 
-# Nakamap
+# Nakamap（ナカマップ）
 
-## Explore Japan's Beauty, Culture, and Hidden Gems
+## 日本の美しさ・文化・秘境を探訪しよう
 
-*An interactive web application for exploring Japan's cultural heritage, historical sites, and natural beauty.*
+*日本の文化遺産、歴史的名所、そして自然の魅力を探索できるインタラクティブなウェブアプリケーションです。*
 
-## 📖 Overview
+## 📖 概要
 
-Nakamap is an immersive digital platform that serves as your gateway to exploring Japan. The application features an interactive map interface where users can discover Japanese cultural sites, temples, shrines, and other points of interest throughout the country. With a charming Shiba Inu mascot as your guide, Nakamap offers a blend of geographical exploration and rich cultural information.
+Nakamap（ナカマップ）は、日本を探検するためのゲートウェイとなる没入型のデジタルプラットフォームです。ユーザーはインタラクティブな地図上で、日本各地の文化的スポットや寺社仏閣、名所などを発見することができます。かわいらしい柴犬のマスコットがナビゲーターとして案内してくれ、地理的な探索と豊かな文化情報の融合を体験できます。
 
-## ✨ Features
+## ✨ 主な機能
 
-### 📍 Interactive Map Experience
-- Explore Japan through a satellite-based interactive map
-- Discover points of interest with uniquely designed pins representing different categories (temples, landmarks, nature spots)
-- Hover over pins to reveal unique stories and adventures behind each location
+### 📍 インタラクティブマップ体験
+- 衛星ベースのインタラクティブ地図で日本を探索
+- 寺院、名所、自然スポットなど、カテゴリごとにデザインされたピンを配置
+- ピンにカーソルを合わせると、その場所にまつわるストーリーや冒険が表示されます
 
-### 🏯 Cultural Immersion
-- Detailed information about historical sites including temples, shrines, and cultural landmarks
-- Rich historical background and cultural significance of each location
-- High-quality images and 360° views of selected destinations
+### 🏯 文化体験
+- 寺社仏閣や文化的ランドマークなど、歴史的スポットの詳細情報
+- 各地の歴史的背景や文化的意義を紹介
+- 高品質な画像と選定されたスポットの360°ビューを提供
 
-### 🦊 Virtual Guide
+### 🦊 バーチャルガイド
 
-- Charming Shiba Inu mascot serves as your virtual tour guide
-- Helpful tooltips provide context and guidance throughout your journey
-- User-friendly dialogue bubbles enhance the exploration experience
+- 柴犬のマスコットがバーチャルツアーガイドとして活躍
+- 旅の途中で役立つツールチップやヒントを表示
+- 吹き出し形式のナビゲーションで使いやすさを追求
 
-### 🗾 Regional Exploration
-- Filter locations by region (Kansai, Chugoku, etc.)
-- Explore Japan region by region with curated content
-- Discover lesser-known gems alongside famous attractions
+### 🗾 地域別探索
+- 関西・中国地方など、地域ごとにフィルター可能
+- 地域別に厳選されたコンテンツで探訪
+- 有名スポットだけでなく、知られざる名所も発見
 
-### 🔍 Category Filtering
-- Find locations based on interests (Tradition, Nature, Food, etc.)
-- Customizable filters to personalize your exploration experience
+### 🔍 カテゴリフィルター
+-「伝統」「自然」「食」など、興味に応じてスポットを検索
+- 自由にカスタマイズ可能なフィルターで探索体験を最適化
 
-### 🏆 Challenges
-- Engage with interactive challenges to enhance your exploration
-- Gamified experiences to encourage discovery of new locations
+### 🏆 チャレンジ機能
+- 探索をより楽しめるインタラクティブなチャレンジに参加
+- ゲーム感覚で新たなスポットを発見
 
-## 📱 Usage
+## 📱 使い方
 
-1. **Explore the Map**: Navigate the interactive map of Japan, where each pin represents a unique location or point of interest.
-2. **Discover Stories**: Hover over or click on pins to reveal information about each location.
-3. **Filter Your Experience**: Use the category and region filters to customize your exploration.
-4. **Immerse Yourself**: Read detailed historical backgrounds, view images, and access 360° views of select locations.
-5. **Take on Challenges**: Participate in challenges to enhance your experience and discover new places.
+1. **マップを探索**: 日本全国のユニークなスポットをピンで表示したインタラクティブマップを操作
+2. **ストーリーを発見**: ピンにカーソルを合わせたりクリックしたりすると、その場所の情報を確認できます
+3. **フィルター機能の活用**: カテゴリや地域のフィルターで、好みに合わせた探索を楽しめます
+4. **没入体験**: 歴史的背景を読み、画像や360°ビューを通して現地の雰囲気を体験
+5. **チャレンジに挑戦**: さまざまなチャレンジに参加し、探索をさらに楽しく
 
-## 📸 Screenshots
+## 📸 スクリーンショット
 
-### Landing Page
+### ランディングページ
 <img src="screen/Nakamap home.png" alt="Home">
-Begin your journey into Japan's Soul and unveil Japan's beauty
+日本の心への旅を始め、美しさを発見しよう
 
-### Country Overview
+### 日本全体ビュー
 <img src="screen/Nakamap no pin.png" alt="Map">
-Full view of Japan with the Shiba Inu guide introducing the platform
+柴犬ガイドと共に、日本全体の概要を確認
 
-### Interactive Map View
+### インタラクティブマップビュー
 <img src="screen/Nakamap Chugoku.png" alt="Chugoku">
-The main map interface showing various points of interest across western Japan with the Shiba Inu guide
+柴犬ガイドが案内する、西日本の名所を表示したメインマップ画面
 
-### Location Detail - Todai-ji
+### スポット詳細 - 東大寺
 <img src="screen/Nakamap Todai-ji pin.png" alt="Pin">
-Discovering Todai-ji temple information from the map
+地図上から東大寺の詳細情報を発見
 
-### 360° View
+### 360°ビュー
 <img src="screen/Nakamap Todai-ji post.png" alt="360View">
-Immersive 360° view of Todai-ji Temple
+東大寺の臨場感ある360°ビューを体験
 
-### Historical Background
+### 歴史的背景
 <img src="screen/Nakamap Todai-ji post 2.png" alt="Post">
-Detailed historical information about Todai-ji Temple and the Great Buddha Hall
+東大寺と大仏殿の詳細な歴史情報を紹介
 
-### Related Points of Interest
+### 関連スポット
 <img src="screen/Nakamap Todai-ji post 3.png" alt="Interest">
-Other points of interest in Nara Park including the Deer Park and Kofuku-ji Temple
+奈良公園内の他の見どころ、鹿公園や興福寺なども掲載
 
-## 🛠️ Technologies Used
+## 🛠️ 使用技術
 
 - Ruby On Rails, HTML5, CSS3, JavaScript
-- Interactive map API (Mapbox)
-- Custom illustrations and design elements
+- Mapbox（インタラクティブ地図API）
+- カスタムイラストとデザイン要素
 
-## 👥 About Us
+## 👥 制作チームについて
 
-Nakamap was created in two weeks during Le Wagon coding bootcamp by a team passionate about Japanese culture and enhancing the travel experience through technology. Our mission is to connect people with Japan's rich cultural heritage and inspire real-world exploration.
+Nakamapは、Le Wagonのコーディングブートキャンプ中に、日本文化への情熱と旅行体験の向上を目指すチームによって、わずか2週間で開発されました。私たちのミッションは、人々と日本の豊かな文化遺産をつなぎ、現地への訪問を促すインスピレーションを提供することです。
 
 ---
 
-<p align="center">Embark on your journey into Japan's soul with Nakamap. Discover the beauty, history, and culture of Japan, one pin at a time.</p>
+<p align="center">Nakamapで日本の心への旅に出よう。1つ1つのピンを通して、日本の美しさ・歴史・文化を発見しよう。</p>
