@@ -1,3 +1,5 @@
+[![jp](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/Admigi/Nakamap/blob/master/README.jp.md)
+
 # Nakamap
 
 ## Explore Japan's Beauty, Culture, and Hidden Gems
