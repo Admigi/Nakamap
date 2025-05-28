@@ -1,4 +1,4 @@
-[![jp](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/Admigi/Nakamap/blob/master/README.jp.md)
+[![jp](https://img.shields.io/badge/LANG-JP-red.svg)(https://github.com/Admigi/Nakamap/blob/master/README.jp.md)
 
 # Nakamap
 
